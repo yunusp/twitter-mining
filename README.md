@@ -2,4 +2,4 @@
 
 Just an experiment lol
 
-## Generator scripts in `/generator/`
+## Generator scripts in `generator/`
