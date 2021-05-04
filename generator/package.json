@@ -1,0 +1,15 @@
+{
+  "name": "tw-bot",
+  "version": "1.0.0",
+  "description": "twitter bot",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node generator.js"
+  },
+  "author": "yaxley peaks",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
